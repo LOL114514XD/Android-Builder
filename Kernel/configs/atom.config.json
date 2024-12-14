@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "name": "Atom",
+      "repo": "https://github.com/XayahSuSuSu/kernel_redmi_mt6885",
+      "branch": "android-4.14-r-stable",
+      "device": "atom",
+      "defconfig": "vendor/atom_user_defconfig"
     },
     "toolchains": [
       {
