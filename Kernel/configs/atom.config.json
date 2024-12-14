@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Atom",
-      "repo": "https://github.com/XayahSuSuSu/kernel_redmi_mt6885",
+      "repo": "https://github.com/LOL114514XD/kernel_redmi_mt6885",
       "branch": "android-4.14-r-stable",
       "device": "atom",
       "defconfig": "vendor/atom_user_defconfig"
